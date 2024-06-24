@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\766070\\source\\repos\\backenddemo\\Chatservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F67370-3140-417B-A73C-26F42377DD61}|Chatservices.csproj|c:\\users\\766070\\source\\repos\\backenddemo\\chatservices\\modal\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F67370-3140-417B-A73C-26F42377DD61}|Chatservices.csproj|solutionrelative:modal\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F67370-3140-417B-A73C-26F42377DD61}|Chatservices.csproj|c:\\users\\766070\\source\\repos\\backenddemo\\chatservices\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F67370-3140-417B-A73C-26F42377DD61}|Chatservices.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F67370-3140-417B-A73C-26F42377DD61}|Chatservices.csproj|c:\\users\\766070\\source\\repos\\backenddemo\\chatservices\\dataservice\\shareddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F67370-3140-417B-A73C-26F42377DD61}|Chatservices.csproj|solutionrelative:dataservice\\shareddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F67370-3140-417B-A73C-26F42377DD61}|Chatservices.csproj|c:\\users\\766070\\source\\repos\\backenddemo\\chatservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F67370-3140-417B-A73C-26F42377DD61}|Chatservices.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Userconnection.cs",
+              "DocumentMoniker": "C:\\Users\\766070\\source\\repos\\backenddemo\\Chatservices\\Modal\\Userconnection.cs",
+              "RelativeDocumentMoniker": "Modal\\Userconnection.cs",
+              "ToolTip": "C:\\Users\\766070\\source\\repos\\backenddemo\\Chatservices\\Modal\\Userconnection.cs",
+              "RelativeToolTip": "Modal\\Userconnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:44:44.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SharedDB.cs",
+              "DocumentMoniker": "C:\\Users\\766070\\source\\repos\\backenddemo\\Chatservices\\DataService\\SharedDB.cs",
+              "RelativeDocumentMoniker": "DataService\\SharedDB.cs",
+              "ToolTip": "C:\\Users\\766070\\source\\repos\\backenddemo\\Chatservices\\DataService\\SharedDB.cs",
+              "RelativeToolTip": "DataService\\SharedDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:57:16.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\766070\\source\\repos\\backenddemo\\Chatservices\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\766070\\source\\repos\\backenddemo\\Chatservices\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:15:55.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\766070\\source\\repos\\backenddemo\\Chatservices\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\766070\\source\\repos\\backenddemo\\Chatservices\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T02:12:27.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
